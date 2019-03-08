@@ -1,3 +1,6 @@
 [submodule "HW3"]
 	path = HW3
 	url = https://github.com/Boon-Jun/CS3245-HW3.git
+[submodule "HW2"]
+	path = HW2
+	url = https://github.com/Boon-Jun/CS3245-HW2.git
